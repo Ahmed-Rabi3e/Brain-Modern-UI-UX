@@ -3,13 +3,13 @@
   <img src="/public/Screenshot%201.png" align="center" width="100%"/>
   <img src="/public/Screenshot%202.png" align="center" width="100%"/>
   <img src="/public/Screenshot%203.png" align="center" width="100%"/>
-  <img src="/public/Screenshot%205.png" align="left" width="48%"/>
-  <img src="/public/Screenshot%204.png" align="right" width="48%"/>
+  <img src="/public/Screenshot%205.png" align="left" width="47.5%"/>
+  <img src="/public/Screenshot%204.png" align="right" width="47.5%"/>
   
   
 
 
-Overview
+# Overview
 This front-end project aims to create a responsive web application using React.js to provide users with a user-friendly interface for accessing various features and functionalities. The project leverages modern web development technologies to deliver an engaging and interactive user experience.
 
 # Features
